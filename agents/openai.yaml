@@ -1,0 +1,14 @@
+interface:
+  display_name: Follow the Source
+  short_description: Reopen original guidance at decisions and check the result
+  default_prompt: Use $follow-the-source to apply the attached references throughout
+    this task and check the finished work against them.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
