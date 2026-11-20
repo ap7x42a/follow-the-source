@@ -59,3 +59,7 @@ Routine checks stay out of the deliverable. If you want an audit, ask for one. A
 - `SKILL.md` is the skill.
 - `agents/openai.yaml` is its Codex interface entry.
 - `assets/icon.svg` is its icon.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
